@@ -3,15 +3,6 @@
 
 This is a simple Weather App. Here You can easily find the weather status of your current location by just mentioning the name of the location
 
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| main-bg | ![#063970](https://via.placeholder.com/10/063970?text=+) #063970 |
-| main-color | ![#6dc7f7](https://via.placeholder.com/10/6dc7f7?text=+) #6dc7f7 |
-
-
 ## Installation
 
 Install my-project with npm

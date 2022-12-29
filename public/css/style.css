@@ -283,7 +283,7 @@ footer p{
 
 /*responsive code*/
 
-@media(max-width: 768px){
+@media(max-width: 2560px){
     .main_header_left{
         height: auto;
         margin: 5rem 0;
